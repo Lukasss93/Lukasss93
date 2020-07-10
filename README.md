@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack Developer working in Milan, Italy.
 
-![Views](https://hitcounter.pythonanywhere.com/count/tag.svg)
+![Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FLukasss93)
 
 - 🏢 I’m currently working at Ecit S.r.l.
 - ⚙ I use daily **`.php`**, **`.js`**, **`.html`**, **`.css`**, **`.scss`**, **`.ts`**, **`.hb`**, **`.psd`**
