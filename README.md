@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## I'm a Full-Stack Developer working in Milan, Italy.
+#### I'm a Full-Stack Developer working in Milan, Italy.
+
+![Views](https://hitcounter.pythonanywhere.com/count/tag.svg)
 
 - 🏢 I’m currently working at Ecit S.r.l.
 - ⚙ I use daily **`.php`**, **`.js`**, **`.html`**, **`.css`**, **`.scss`**, **`.ts`**, **`.hb`**, **`.psd`**
